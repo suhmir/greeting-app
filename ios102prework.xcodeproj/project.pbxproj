@@ -60,8 +60,8 @@
 				0FA7B09E298F7090000A85E7 /* SceneDelegate.swift */,
 				0FA7B0A0298F7090000A85E7 /* ViewController.swift */,
 				0FA7B0A2298F7090000A85E7 /* Main.storyboard */,
-				0FA7B0A5298F7092000A85E7 /* Assets.xcassets */,
 				0FA7B0A7298F7092000A85E7 /* LaunchScreen.storyboard */,
+				0FA7B0A5298F7092000A85E7 /* Assets.xcassets */,
 				0FA7B0AA298F7092000A85E7 /* Info.plist */,
 			);
 			path = ios102prework;
